@@ -102,3 +102,4 @@ ENV/
 
 # ignore the data directory
 data/
+Data/
